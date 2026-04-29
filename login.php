@@ -24,6 +24,7 @@ if(isset($_POST['login'])) {
             // set session
             $_SESSION['login'] = true;
             $_SESSION['username'] = $row['username'];
+            $_SESSION['role'] = $row['user_role'];
 
             // login berhasil
             header("Location: index.php");
