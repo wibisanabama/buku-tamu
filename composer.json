@@ -1,0 +1,17 @@
+{
+    "name": "wibis/buku-tamu",
+    "autoload": {
+        "psr-4": {
+            "Wibis\\BukuTamu\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wibisanabama",
+            "email": "wibisanabama@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^5.7"
+    }
+}
