@@ -80,15 +80,6 @@ Aplikasi web untuk mencatat kunjungan tamu, mengelola pengguna, melihat riwayat 
    http://localhost/buku-tamu/
    ```
 
-## Akun Lokal
-
-| Peran | Username | Password |
-|---|---|---|
-| Administrator | `admin` | `password` |
-| Operator | `operator` | `password` |
-
-Ganti password setelah login apabila aplikasi digunakan di luar lingkungan pengembangan lokal.
-
 ## Hak Akses
 
 | Fitur | Administrator | Operator |
